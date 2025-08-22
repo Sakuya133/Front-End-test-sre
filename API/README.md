@@ -21,4 +21,4 @@ The bot is able to check discounts of specific games on **Steam** by consuming t
 ---
 
 ## 🔹 Example of Steam API Response
-When calling:
+<img width="796" height="257" alt="Image" src="https://github.com/user-attachments/assets/8defcf8a-9450-4f73-bd55-cdc5239a8d83" />
