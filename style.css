@@ -1,0 +1,131 @@
+
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      color: #1a1a3d;
+      background: #fff;
+    }
+
+    /* Navbar */
+    header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 20px 80px;
+    }
+
+    .logo {
+      font-weight: bold;
+      font-size: 20px;
+    }
+
+    nav a {
+      margin: 0 15px;
+      text-decoration: none;
+      color: #1a1a3d;
+      font-weight: 500;
+    }
+
+    .nav-buttons a {
+      margin-left: 20px;
+      text-decoration: none;
+      padding: 8px 18px;
+      border-radius: 6px;
+      font-weight: 500;
+    }
+
+    .login {
+      color: #1a1a3d;
+      border: 1px solid transparent;
+    }
+
+    .book-now {
+      background: #1a1a3d;
+      color: #fff;
+    }
+
+    /* Hero Section */
+    .hero {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 60px 80px;
+    }
+
+    .hero-text {
+      max-width: 500px;
+    }
+
+    .hero-text h1 {
+      font-size: 42px;
+      margin-bottom: 20px;
+    }
+
+    .hero-text p {
+      margin-bottom: 25px;
+      line-height: 1.6;
+      color: #555;
+    }
+
+    .hero-text button {
+      background: #1a1a3d;
+      color: #fff;
+      border: none;
+      padding: 14px 28px;
+      font-size: 16px;
+      border-radius: 6px;
+      cursor: pointer;
+    }
+
+    .hero-image {
+      position: relative;
+      background: #a6e9e6;
+      border-radius: 8px;
+      padding: 20px;
+    }
+
+    .hero-image img {
+      max-height: 400px;
+    }
+
+    .testimonial {
+      position: absolute;
+      top: 20px;
+      left: -120px;
+      background: #fff;
+      padding: 20px;
+      border-radius: 8px;
+      box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+      width: 220px;
+      font-size: 14px;
+    }
+
+    .testimonial strong {
+      display: block;
+      margin-bottom: 8px;
+    }
+
+    /* Features Section */
+    .features {
+      display: flex;
+      justify-content: space-around;
+      background: #1a1a3d;
+      color: #fff;
+      padding: 40px 80px;
+      text-align: center;
+    }
+
+    .feature {
+      max-width: 250px;
+    }
+
+    .feature h3 {
+      margin-bottom: 10px;
+      font-size: 16px;
+    }
+
+    .feature p {
+      font-size: 14px;
+      line-height: 1.5;
+      color: #ddd;
+    }
