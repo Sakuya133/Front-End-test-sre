@@ -8,9 +8,7 @@ The bot is able to check discounts of specific games on **Steam** by consuming t
 ---
 
 ## 🔹 How It Works
-1. The bot is created in the **Discord Developer Portal** and connected using a bot token.  
-2. I wrote the bot using **Python** and the `discord.py` library.  
-3. When a user types `/diskon` in the Discord server, the bot:  
+The bot is created in the **Discord Developer Portal** and connected using a bot token. I wrote the bot using **Python** and the `discord.py` library. When a user types `/diskon` in the Discord server, the bot:  
    - Calls the **Steam Store API**:  
      ```
      https://store.steampowered.com/api/appdetails?appids=<APPID>
@@ -22,5 +20,7 @@ The bot is able to check discounts of specific games on **Steam** by consuming t
 
 ## 🔹 Example of Steam API Response
 <img width="796" height="257" alt="Image" src="https://github.com/user-attachments/assets/8defcf8a-9450-4f73-bd55-cdc5239a8d83" />
+
 ---
+
 <img width="789" height="384" alt="Image" src="https://github.com/user-attachments/assets/ee2c6a67-8db9-46fd-af03-acc3985b2df6" />
