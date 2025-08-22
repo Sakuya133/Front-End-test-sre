@@ -9,7 +9,7 @@ I tried to recreate it using **native HTML and CSS**.
 ---
 
 ### Original Design
-<img width="2278" height="996" alt="Original Design" src="https://github.com/user-attachments/assets/c5764e8d-acf8-432e-8c7e-e04e3614a6a6" />
+<img width="1320" height="977" alt="Image" src="https://github.com/user-attachments/assets/dd25cdb6-3989-4b02-9899-479b099ed005" />
 
 ---
 
