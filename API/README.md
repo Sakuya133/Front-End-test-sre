@@ -18,9 +18,9 @@ The bot is created in the **Discord Developer Portal** and connected using a bot
 
 ---
 
-## 🔹 Example of Steam API Response
+##  The Code
 <img width="796" height="257" alt="Image" src="https://github.com/user-attachments/assets/8defcf8a-9450-4f73-bd55-cdc5239a8d83" />
 
 ---
-
+##  Example of Steam API Response
 <img width="789" height="384" alt="Image" src="https://github.com/user-attachments/assets/ee2c6a67-8db9-46fd-af03-acc3985b2df6" />
