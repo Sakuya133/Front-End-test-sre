@@ -6,7 +6,7 @@
       background: #fff;
     }
 
-    /* Navbar */
+  
     header {
       display: flex;
       justify-content: space-between;
@@ -44,7 +44,7 @@
       color: #fff;
     }
 
-    /* Hero Section */
+   
     .hero {
       display: flex;
       align-items: center;
@@ -105,7 +105,7 @@
       margin-bottom: 8px;
     }
 
-    /* Features Section */
+   
     .features {
       display: flex;
       justify-content: space-around;
